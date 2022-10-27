@@ -1,0 +1,18 @@
+body
+{
+    background-color: gray;
+}
+img
+{
+    content:url("robiwrazenie.jpg");
+    width: 111px
+    
+
+}
+p
+{
+color: mediumaquamarine;
+font-weight: bold;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: medium;
+}
